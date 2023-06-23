@@ -1,12 +1,22 @@
-# contador
+# English
 
-Teste1
+## People Count
 
-## Getting Started
+Simple app that counts people in a place / establishment
 
-This project is a starting point for a Flutter application.
+Available for Web, Android and iOS.
+Created using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+# Português Brasil
+
+## Contador de Pessoas
+
+App simples para contar pessoas em um local / estabelecimento
+
+Disponível para Web, Android e iOS.
+Desenvolvido pelo framework Flutter.
+
+--------------------------------------------------------------
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
